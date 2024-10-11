@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nouhaila el hriki</h1>
-<h3 align="center">Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+
+- 🔭 I’m currently working with **Peaqock**
+
+- 💬 Ask me about **React - Spring boot**
+
+- 📫 How to reach me **elhriki.nouhaila@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
