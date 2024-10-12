@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nouhaila el hriki</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-**About me :**
 <img align="right" width="375" alt="PNG" src="https://github.com/nouhaila-elh/nouhaila-elh/blob/main/ascii-art.png" />
 <br>
 <br>
 <br>
+
 - 💼 Full stack Engineer at [PEAQOCK](https://github.com/peaqock-financials/)
 
 - 📈 Skilled in building complex application flows.
