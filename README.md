@@ -12,7 +12,12 @@
 
 - ❤️ Passionate about coding, resolving issues, optimizing performance, and delivering scalable solutions.
 
-- 💬 Connect with me [here](https://linkedin.com/in/nouhaila-el-hriki-b401b61bb)
+- 💬 Connect with me :
+
+     <a href="https://linkedin.com/in/nouhaila-el-hriki-b401b61bb" target="_blank"><img src="https://img.shields.io/badge/-nouhaila%20El%20Hriki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+     <a target="_blank" href="mailto:elhriki.nouhaila@gmail.com"><img src="https://img.shields.io/badge/-elhriki.nouhaila@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+     
+
 
 
 | <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-stats-nouhaila-elh.vercel.app/api?username=nouhaila-elh&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=buefy&hide_border=true" alt="Nouhaila's github stats" /></a> | <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouhaila-elh&theme=buefy&hide_border=true" /></a> |
