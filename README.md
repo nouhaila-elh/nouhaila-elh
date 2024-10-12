@@ -20,7 +20,7 @@
 
 
 
-| <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-stats-nouhaila-elh.vercel.app/api?username=nouhaila-elh&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=buefy&hide_border=true" alt="Nouhaila's github stats" /></a> | <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouhaila-elh&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-stats-nouhaila-elh.vercel.app/api?username=nouhaila-elh&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&hide_border=true" alt="Nouhaila's github stats" /></a> | <a href="https://github.com/nouhaila-elh/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouhaila-elh&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
